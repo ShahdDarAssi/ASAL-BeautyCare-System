@@ -18,6 +18,6 @@ A comprehensive database-driven desktop application for managing an online beaut
 - **Database:** MySQL
 - **UI:** JavaFX
 
-Aother: 
+Author: 
 Shahd Dar Assi
 
